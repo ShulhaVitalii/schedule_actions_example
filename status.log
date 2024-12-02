@@ -64,3 +64,5 @@
 2024-11-18 12:32:54,289 - __main__ - INFO - Weather in Kyiv: 7.07
 2024-11-25 12:32:38,385 - __main__ - INFO - Token value: 1234
 2024-11-25 12:32:38,572 - __main__ - INFO - Weather in Kyiv: 1.51
+2024-12-02 12:34:14,981 - __main__ - INFO - Token value: 1234
+2024-12-02 12:34:15,109 - __main__ - INFO - Weather in Kyiv: 3.18
