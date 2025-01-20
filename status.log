@@ -77,3 +77,5 @@
 2025-01-06 12:31:20,461 - __main__ - INFO - Token value: 1234
 2025-01-13 12:31:55,257 - __main__ - INFO - Token value: 1234
 2025-01-13 12:31:55,682 - __main__ - INFO - Weather in Kyiv: -0.16
+2025-01-20 12:29:58,285 - __main__ - INFO - Token value: 1234
+2025-01-20 12:29:58,714 - __main__ - INFO - Weather in Kyiv: 7.03
