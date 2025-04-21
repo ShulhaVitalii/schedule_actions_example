@@ -103,3 +103,5 @@
 2025-04-07 12:34:22,419 - __main__ - INFO - Weather in Kyiv: 0.96
 2025-04-14 12:34:05,097 - __main__ - INFO - Token value: 1234
 2025-04-14 12:34:05,243 - __main__ - INFO - Weather in Kyiv: 16.37
+2025-04-21 12:33:01,794 - __main__ - INFO - Token value: 1234
+2025-04-21 12:33:02,247 - __main__ - INFO - Weather in Kyiv: 25.34
